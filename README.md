@@ -4,7 +4,7 @@ Hi 👋 My name is Jaspreet Singh
 Flutter Developer
 -----------------
 
-I've been learning to code for 5 years. I started with HTML, but have really found a passion for Cross-Platform Development so I came up with beloved Flutter.
+I've been learning to code for five years. I started with HTML, but have really found a passion for cross-platform development, so I came up with my beloved Flutter.
 
 * 🌍  I'm based in Hoshiarpur
 * 🖥️  See my portfolio at [jaspreetsingh.dev](http://jaspreetsingh.dev)
