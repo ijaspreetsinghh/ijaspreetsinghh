@@ -7,7 +7,7 @@ Flutter Developer
 I've been into programming for five years. I started with HTML, but have really found a passion for cross-platform development, so I came up with my beloved Flutter.
 
 # 💫 About Me:
-🖥️  See my portfolio at [jaspreetsingh.dev](https://jaspreetsingh.dev)<br>👯 I’m looking for full-time work<br>✉️  You can contact me at [contact@jaspreetsingh.dev](mailto:contact@jaspreetsingh.dev)<br>🤝 I’m looking for help with<br>🧠  I'm learning Cross Platform Application Development<br>💬 Ask me about<br>🌍  I'm based in Hoshiarpur<br>
+🖥️  See my portfolio at [jaspreetsingh.dev](https://jaspreetsingh.dev)<br>👯 I’m looking for full-time work<br>✉️  You can contact me at [contact@jaspreetsingh.dev](mailto:contact@jaspreetsingh.dev)<br>🤝 I'm seeking assistance to explore new professional opportunities<br>🌍  I'm based in Punjab<br>
 
 
 ## 🌐 Socials:
