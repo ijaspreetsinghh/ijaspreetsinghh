@@ -15,7 +15,7 @@ Over the past 6+ years, I’ve designed and shipped systems that handle real-wor
 - 🌐 Portfolio: https://jaspreetsingh.dev  
 - 📍 Punjab, India  
 - 💼 Open to high-impact roles and meaningful projects  
-- ✉️ contact@jaspreetsingh.dev  
+- ✉️ hi@jaspreetsingh.dev  
 
 ---
 
