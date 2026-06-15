@@ -1,53 +1,80 @@
-Hi 👋 I'm Jaspreet Singh
-========================
+# Hi 👋 I'm Jaspreet Singh
 
-Full-Stack Systems Engineer  
---------------------------
+## Full-Stack Systems Engineer • SaaS Builder • Founder
 
-I build scalable, production-grade software across web, mobile, and backend.
+I build scalable software products that solve real operational problems.
 
-Over the past 6+ years, I’ve designed and shipped systems that handle real-world complexity — from structured platforms to real-time applications and automation-driven products. My focus is on building software that is reliable, maintainable, and scales as usage grows.
+Over the past 6+ years, I've designed and shipped production systems across web, mobile, backend, and cloud infrastructure. My work spans enterprise workflows, automation platforms, real-time applications, and industry-specific SaaS products.
 
----
-
-## ⚡ About Me
-
-- 🌐 Portfolio: https://jaspreetsingh.dev  
-- 📍 Punjab, India  
-- 💼 Open to high-impact roles and meaningful projects  
-- ✉️ hi@jaspreetsingh.dev  
+Today, I build software through **Qooper Labs**, where we create products that help businesses streamline operations, improve visibility, and scale efficiently.
 
 ---
 
-## 🧩 What I Work On
+## 🚀 What I Do
 
-- Designing systems that scale with growing data, users, and complexity  
-- Building structured, maintainable architectures across frontend and backend  
-- Developing real-time and data-driven applications  
-- Simplifying complex workflows into reliable, usable systems  
-- Integrating automation and intelligent features where they add real value  
-- Owning systems end-to-end — from idea to production  
+* Design scalable software architectures
+* Build modern web and mobile applications
+* Develop enterprise workflow and ERP systems
+* Create automation-first business tools
+* Ship SaaS products from idea to production
+* Lead projects end-to-end across product, engineering, and deployment
+
+---
+
+## 🏢 Building
+
+### Flexograpphy
+
+An ERP and operations platform for the flexographic printing industry covering:
+
+* Orders & customer management
+* Prepress workflows
+* Production planning
+* Inventory tracking
+* Dispatch & operations
+
+### Qooper Labs
+
+Software studio focused on building scalable products, internal platforms, and custom business solutions.
 
 ---
 
 ## 🛠️ Tech Stack
 
-- Languages: TypeScript, JavaScript, Python, SQL  
-- Frontend: React, Next.js, modern UI systems  
-- Mobile: Cross-platform development (Flutter)  
-- Backend: APIs, databases, real-time systems  
-- Infrastructure: Cloud platforms, CI/CD, deployment pipelines  
+**Languages**
+TypeScript • JavaScript • Python • SQL
+
+**Frontend**
+React • Next.js • Modern UI Systems
+
+**Mobile**
+Flutter
+
+**Backend**
+Node.js • APIs • Real-time Systems • Database Design
+
+**Infrastructure**
+Cloud Platforms • CI/CD • Deployment Automation
 
 ---
 
-## 🚀 Currently Exploring
+## 🌱 Currently Exploring
 
-- Distributed systems  
-- AI-driven automation in production  
+* AI-powered business automation
+* Distributed systems
+* Product-led SaaS growth
+* Intelligent workflow orchestration
 
 ---
 
-## 🌐 Socials
+## 🌐 Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jaspreetsinghdev)
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/ijaspreetsinghh)
+* Portfolio: https://jaspreetsingh.dev
+* Company: https://qooperlabs.com
+* LinkedIn: https://linkedin.com/in/jaspreetsinghdev
+* X: https://x.com/ijaspreetsinghh
+* Email: [hi@jaspreetsingh.dev](mailto:hi@jaspreetsingh.dev)
+
+---
+
+> Building software that scales with both users and business complexity.
